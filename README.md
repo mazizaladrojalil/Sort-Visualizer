@@ -1,9 +1,9 @@
-# SortViz
-SortViz adalah aplikasi visualisasi selection dan quick sort dengan basis web. Menggunakan bahasa pemograman Javascript
+# SortVizualizer
+  SortVizualizer merupakan aplikasi visualisasi selection dan quick sort berbasis web. 
 
 ### Penjelasan (Youtube)
-https://youtu.be/bqeLcGcC0NA
+
 
 ## Oleh
-1301190312 Farah Az Zahra <br>
-1301194434 Masayu Anandita Prameswari
+Dewa Made Wijaya <br>
+M Aziz Al Adro Jalil
