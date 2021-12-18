@@ -5,5 +5,6 @@
 
 
 ## Oleh
-Dewa Made Wijaya <br>
-M Aziz Al Adro Jalil
+Dewa Made Wijaya (1301204106) <br>
+M Aziz Al Adro Jalil (1301202611)
+
